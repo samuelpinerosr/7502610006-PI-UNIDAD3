@@ -1,4 +1,4 @@
-package EJERCICIO1;
+package TALLER11.EJERCICIO1;
 
 // Archivo: Main.java (para probar el Ejercicio 1)
 public class Main {
