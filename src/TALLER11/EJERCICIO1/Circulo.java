@@ -1,4 +1,4 @@
-package EJERCICIO1;
+package TALLER11.EJERCICIO1;
 
 // Archivo: Circulo.java
 public class Circulo extends Figura {
